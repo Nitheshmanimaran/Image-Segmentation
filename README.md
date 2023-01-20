@@ -12,3 +12,6 @@ Running the Streamlit code
 Changing the Model
 
 To use a different model, replace the model file at the path specified in the MODEL_PATH variable with your desired model file. Make sure the model is in the correct format and that it uses the UpdatedMeanIoU metric as specified in the code.
+
+
+TO download the model : https://drive.google.com/file/d/1-24jkDVGQsXQ5MUGVq26dgoqImyKcuJF/view?usp=sharing
